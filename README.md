@@ -43,3 +43,4 @@ BSP, lightmaps, mapscript, speakerscript, soundscript, etc. are always assumed t
 #### Example
 Map is `etmain/void.pk3dir/void_b1.map`, the priority is:
   `pak0.pk3` -> `etmain/void.pk3dir/` -> `etmain/` -> any pk3 files in etmain
+
